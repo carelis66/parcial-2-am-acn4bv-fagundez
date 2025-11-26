@@ -7,7 +7,7 @@
     android:background="@color/backgroundLight"
     android:padding="@dimen/screen_padding">
 
-    <!-- Encabezado -->
+    <!-- tareas Encabezado -->
     <LinearLayout
         android:id="@+id/headerLayout"
         android:layout_width="0dp"

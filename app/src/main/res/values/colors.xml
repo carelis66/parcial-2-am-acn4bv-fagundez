@@ -4,7 +4,7 @@
     <color name="colorPrimaryDark">#512DA8</color>
     <color name="colorAccent">#FF4081</color>
 
-    <!-- Fondo & texto -->
+    <!-- Fondo & textos -->
     <color name="backgroundLight">#F9F7FD</color>
     <color name="textPrimary">#3A3A3A</color>
     <color name="textTitle">#4B2F8D</color>
