@@ -89,7 +89,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     // =====================================================================================
-    //  CARGAR TODAS LAS TAREAS DESDE FIRESTORE
+    //  CARGAR TODAS LAS TAREAS DESDE FIRESTORE id
     // =====================================================================================
     private void cargarTareasDesdeFirestore() {
         db.collection("tareas")
