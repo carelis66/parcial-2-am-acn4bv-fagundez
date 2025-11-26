@@ -17,7 +17,7 @@ public class HomeActivity extends AppCompatActivity {
         Button btnIrTareas = findViewById(R.id.btnIrTareas);
         Button btnAcerca = findViewById(R.id.btnAcerca);
 
-        // Ir a la pantalla de tareas (MainActivity original)
+        // Ir a la pantalla de tareas actualizado (MainActivity original)
         btnIrTareas.setOnClickListener(v -> {
             Intent intent = new Intent(HomeActivity.this, MainActivity.class);
             // EXTRA que enviamos a MainActivity
