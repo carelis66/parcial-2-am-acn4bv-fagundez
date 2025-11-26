@@ -59,7 +59,7 @@ Prof. Sergio Medina
 ##  Posibles mejoras a futuro
 -  Asignar fechas y horas a las tareas.
 -  Notificaciones para recordar tareas importantes.
-- 💾Persistencia de datos (guardar las tareas en base de datos o SharedPreferences).
+- Persistencia de datos (guardar las tareas en base de datos o SharedPreferences).
 =======
 ---
 
