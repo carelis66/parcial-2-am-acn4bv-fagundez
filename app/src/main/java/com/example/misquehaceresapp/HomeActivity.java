@@ -13,7 +13,7 @@ public class HomeActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_home);
 
-        // Referencias a los botones
+        // Referencias a los botones nuevos
         Button btnIrTareas = findViewById(R.id.btnIrTareas);
         Button btnAcerca = findViewById(R.id.btnAcerca);
 
